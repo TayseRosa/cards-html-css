@@ -1,6 +1,6 @@
 <h1 align="center">Cards - HTML e CSS</h1>
   
-## 🛠 About the project
+## 💜 About the project
 This is a card developed with HTML and CSS.
 
 
@@ -10,7 +10,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] HTML
 - [x] CSS
 
-## 📥 Como usar
+## 💜 Como usar
 ```js
 
     //Clonar o repositório
